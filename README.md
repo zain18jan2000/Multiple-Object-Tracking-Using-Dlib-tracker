@@ -6,7 +6,7 @@
 
 https://youtu.be/eZpRWfay6vI
 
-<br> <br>
+<br>
 
 <b>For detailed explanation, please refer to the youtube video link below,</b>
 
