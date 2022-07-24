@@ -1,7 +1,7 @@
 # Multiple-Object-Tracking-Using-Dlib-tracker
-<h2>Python based implementation of dlib correlation tracker for object tracking</h2> 
+<b>Python based implementation of dlib correlation tracker for object tracking</b> 
 
 
-<h2>For detailed explanation, please refer to the youtube video link below,</h2>
+<b>For detailed explanation, please refer to the youtube video link below,</b>
 
 https://www.youtube.com/watch?v=2M0ibhL5W4A
