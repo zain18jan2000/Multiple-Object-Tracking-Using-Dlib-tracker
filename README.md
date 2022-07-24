@@ -4,4 +4,4 @@
 
 <b>For detailed explanation, please refer to the youtube video link below,</b>
 
-https://www.youtube.com/watch?v=2M0ibhL5W4A
+https://youtu.be/2n4-s-9Lt7c
